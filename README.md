@@ -1,5 +1,10 @@
 # Telecom Communication System Simulation
 
+## BER v/s SNR plot<img width="1000" height="600" alt="ber_plot" src="https://github.com/user-attachments/assets/2e542770-9a3c-4572-8e73-38e370512d20" />
+
+
+
+
 ## Example Application: Satellite-Based Internet communications 
 
 A modern application of this architecture is satellite communication
